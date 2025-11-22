@@ -1,9 +1,9 @@
  Fraud Detection – Machine Learning Project
 
  📌 Project Overview
-Credit card fraud is one of the most critical challenges in modern finance. Fraudulent transactions are rare (less than 1%) yet extremely costly. Detecting these anomalies in real time is essential for banking institutions to reduce financial losses, protect customers, and improve trust in digital payments.
+Transaction fraud is one of the most critical challenges in modern finance. Fraudulent transactions are rare (less than 1%) yet extremely costly. Detecting these anomalies in real time is essential for banking institutions to reduce financial losses, protect customers, and improve trust in digital payments.
 
-This project explores a real-world credit card transaction dataset and applies machine learning techniques to classify fraudulent vs. non-fraudulent transactions. The goal is to understand transaction behaviors, detect key fraud patterns, and develop a predictive model to assist financial systems in flagging fraudulent activities.
+This project explores a real-world  transaction dataset and applies machine learning techniques to classify fraudulent vs. non-fraudulent transactions. The goal is to understand transaction behaviors, detect key fraud patterns, and develop a predictive model to assist financial systems in flagging fraudulent activities.
 
 ---
 
